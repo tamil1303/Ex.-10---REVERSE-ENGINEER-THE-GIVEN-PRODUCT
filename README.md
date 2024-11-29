@@ -30,7 +30,8 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:![Screenshot 2024-11-28 112905](https://github.com/user-attachments/assets/8737cec2-e2f7-41ad-8dcb-8049e1d9b3fb)
+## Input:![image](https://github.com/user-attachments/assets/bd6ff28a-155c-4c9f-b85f-ee9684106d50)
+
 
 
 ### Output:![Screenshot 2024-11-28 112905](https://github.com/user-attachments/assets/95426f97-ec33-4933-9737-a50ee8088068)
